@@ -353,6 +353,8 @@ dependencies = [
  "cw4",
  "cw4-group",
  "cw4-voting",
+ "cw721-base",
+ "cw721-stake",
  "indexable-hooks",
  "proposal-hooks",
  "schemars",
